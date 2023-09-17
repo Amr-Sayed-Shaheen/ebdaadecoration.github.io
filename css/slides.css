@@ -45,7 +45,7 @@ table {
 }
 
 b, strong {
-  font-weight: 300;
+  font-weight: 600;
 }
 
 html {
@@ -1942,7 +1942,7 @@ html.mobile .showForMobileInline {
   font-size: 12px;
   margin: 0 10px;
   letter-spacing: 0.125em;
-  font-weight: 300 !important;
+  font-weight: 600 !important;
 }
 .panel .sections .menu.uppercase li svg {
   position: relative;
@@ -4785,7 +4785,7 @@ body {
 .typography .h4.bold, .typography h4.bold,
 .typography .h5.bold, .typography h5.bold,
 .typography .h6.bold, .typography h6.bold {
-  font-weight: 300;
+  font-weight: 600;
   letter-spacing: -0.04em;
 }
 .typography .h1.ultraBold, .typography h1.ultraBold,
@@ -4953,7 +4953,7 @@ body {
   letter-spacing: -0.16rem;
 }
 .typography strong {
-  font-weight: 300;
+  font-weight: 600;
 }
 .typography em {
   font-weight: 500;
@@ -6507,7 +6507,7 @@ body {
   display: table;
   width: 100%;
   font-size: 0;
-  font-weight: 300;
+  font-weight: 600;
   box-shadow: 0 1px 0px rgba(0, 0, 0, 0.1) inset;
 }
 .dialog .hiddenContent {
@@ -7358,7 +7358,7 @@ p.remind-43 {
 
 .quote-79 {
   font-size: 85px;
-  font-weight: 300;
+  font-weight: 600;
   line-height: 1;
   margin-bottom: 10px;
   font-family: serif;
@@ -8246,7 +8246,7 @@ span.next-arrow svg {
 }
 
 .bold {
-  font-weight: 300 !important;
+  font-weight: 600 !important;
 }
 
 .ultraBold {

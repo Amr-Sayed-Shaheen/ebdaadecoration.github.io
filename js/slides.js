@@ -80,7 +80,7 @@ $(document).ready(function() { "use strict";
     window.effectSpeed = 1400;
     window.effectOffset = 400;
     window.scrollSpeed = .8;
-    window.effectOffset = 300;
+    window.effectOffset = 600;
   }
 
   //How many stages?
